@@ -1,0 +1,13 @@
+C:\Users\prati\source\repos\AcademiaStuff\obj\Debug\netcoreapp3.1\AcademiaStuff.csprojAssemblyReference.cache
+C:\Users\prati\source\repos\AcademiaStuff\obj\Debug\netcoreapp3.1\AcademiaStuff.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\AcademiaStuff\obj\Debug\netcoreapp3.1\AcademiaStuff.AssemblyInfo.cs
+C:\Users\prati\source\repos\AcademiaStuff\obj\Debug\netcoreapp3.1\AcademiaStuff.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\AcademiaStuff\bin\Debug\netcoreapp3.1\AcademiaStuff.exe
+C:\Users\prati\source\repos\AcademiaStuff\bin\Debug\netcoreapp3.1\AcademiaStuff.deps.json
+C:\Users\prati\source\repos\AcademiaStuff\bin\Debug\netcoreapp3.1\AcademiaStuff.runtimeconfig.json
+C:\Users\prati\source\repos\AcademiaStuff\bin\Debug\netcoreapp3.1\AcademiaStuff.runtimeconfig.dev.json
+C:\Users\prati\source\repos\AcademiaStuff\bin\Debug\netcoreapp3.1\AcademiaStuff.dll
+C:\Users\prati\source\repos\AcademiaStuff\bin\Debug\netcoreapp3.1\AcademiaStuff.pdb
+C:\Users\prati\source\repos\AcademiaStuff\obj\Debug\netcoreapp3.1\AcademiaStuff.dll
+C:\Users\prati\source\repos\AcademiaStuff\obj\Debug\netcoreapp3.1\AcademiaStuff.pdb
+C:\Users\prati\source\repos\AcademiaStuff\obj\Debug\netcoreapp3.1\AcademiaStuff.genruntimeconfig.cache
